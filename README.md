@@ -1,2 +1,6 @@
 # elblair.github.io
-my website
+~ $ gem install bundler jekyll
+~ $ jekyll new my-awesome-site
+~ $ cd my-awesome-site
+~/my-awesome-site $ bundle exec jekyll serve
+
